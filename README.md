@@ -11,3 +11,4 @@ Website Similar to Nextdoor , with all the functionality of adding and removing 
 how to use 
 // use php my admin or Mysql
 // Create a corresponding database with similar fields.
+// Rename the welcome.php with , index.php and make corresponding chanegs when hosting the site on automated services. 
